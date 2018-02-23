@@ -1,0 +1,8 @@
+Misclassification error on test set: 6.375%
+
+
+Optimizer: SGD, Loss: Cross entropy loss,
+activation: Relu (differentiable when x>0) performs better than sigmoid
+one hidden layers with 512 neurons
+training step: 1000
+
