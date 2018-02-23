@@ -1,5 +1,5 @@
 # Statistical-Machine-Learning
-### Three problems included
+### Four problems included. And three reports correspond to problem 2, 3, 4
 ### Problem 1:
 #### - A probability experiment
 #### - Numerical optimization based on Rosenbrock’s function
